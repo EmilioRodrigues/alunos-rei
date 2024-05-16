@@ -1,2 +1,2 @@
-# ProjetoJS
-Projeto semestral da matéria de Programação Orientada a objetos
+# Projeto Freela
+Projeto freelancer da matéria de Programação Orientada a objetos
